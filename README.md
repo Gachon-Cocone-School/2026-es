@@ -22,7 +22,7 @@ Gachon Cocone School
 - 시간 : 목 11:00 ~ 13:00
 - 장소 : AI관 100호 대형 강의실(천양현홀)
 - [카카오톡 오픈채팅방](https://open.kakao.com/o/gMBSCBji)
-  <img width="681" height="684" alt="Image" src="https://github.com/user-attachments/assets/22ef5ddc-7237-4628-b7f8-2c355fdfaab4" />
+  <img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/22ef5ddc-7237-4628-b7f8-2c355fdfaab4" />
 
 ---
 
@@ -88,6 +88,9 @@ Gachon Cocone School
 
 - 수업점수 50점
 - 토론대회 50점
+
+### 평가 방식
+- 상대평가 I : A등급 이상 50% 이내, B등급 이상 누계 70% 이내
 
 ---
 
