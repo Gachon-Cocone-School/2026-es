@@ -22,7 +22,7 @@ Gachon Cocone School
 - 시간 : 목 11:00 ~ 13:00
 - 장소 : AI관 100호 대형 강의실(천양현홀)
 - [카카오톡 오픈채팅방](https://open.kakao.com/o/gMBSCBji)
-  <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/22ef5ddc-7237-4628-b7f8-2c355fdfaab4" />
+- <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/22ef5ddc-7237-4628-b7f8-2c355fdfaab4" />
 
 ---
 
