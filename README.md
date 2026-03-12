@@ -207,6 +207,7 @@ TBD
 ## 강의 슬라이드
 
 - [0.오리엔테이션](https://docs.google.com/presentation/d/1VJgHEm_CFy68zcq7s17WQBVy92JjuBiz4TlGobiZnCI/edit?slide=id.g33cdb80f340_0_0#slide=id.g33cdb80f340_0_0)
+- [1.대학의 기업가적 전환과 GCS(장대익 학장(석좌교수), 가천대학교 스타트업 칼리지)](https://drive.google.com/file/d/1cGX2PHNFQMRa4huxrrQjxwOHe6693TVP/view?usp=drive_link)
 
 ---
 
