@@ -55,9 +55,9 @@ Gachon Cocone School
 
 ### Introduction
 
-- 1주차(2026.3.5) - 강의 소개(Orientation)
-- 2주차(2026.3.12) - 대학의 기업가적 전환과 GCS(장대익 학장(석좌교수), 가천대학교 스타트업 칼리지)
-- 3주차(2026.3.19) - GCS 투어 및 조구성, 조별 시간
+- 1주차(2026.3.5) - 강의 소개(Orientation) - [강의슬라이드](https://docs.google.com/presentation/d/1VJgHEm_CFy68zcq7s17WQBVy92JjuBiz4TlGobiZnCI/edit?slide=id.g33cdb80f340_0_0#slide=id.g33cdb80f340_0_0)
+- 2주차(2026.3.12) - 대학의 기업가적 전환과 GCS(장대익 학장(석좌교수), 가천대학교 스타트업 칼리지) - [강의슬라이드](https://drive.google.com/file/d/1cGX2PHNFQMRa4huxrrQjxwOHe6693TVP/view?usp=drive_link)
+- 3주차(2026.3.19) - GCS 투어 및 조구성, 조별 시간 - [강의슬라이드](https://docs.google.com/presentation/d/1dy2EM6KYKAcknuNs725-Jnf_Q1Y8pc6qUXZtP9JmnRk/edit?slide=id.g33cdb80f340_0_0#slide=id.g33cdb80f340_0_0)
 - 4주차(2026.3.26) - 기업가에 대한 생각(천양현 회장, Cocone) - **온라인 강의**
 
 ### Team teaching
@@ -118,9 +118,14 @@ Gachon Cocone School
 
 ## 기업가정신 토론대회
 
-- 100명을 3,4명씩 32개조로 나눈다.
-- 32강 A그룹, 32강 B그룹 → 16강 → 8강 → 4강(준결승) → 결승 순으로 진행
+- 89명을 5,6명씩 16개조로 나눈다.
+- 16강 → 8강 → 4강(준결승) → 결승 순으로 진행
+- 패자부활전(더블 엘리미네이션 방식)도 진행.  패자불활전 1R → 2R → 3R → 4R → 패자결승전
 - 스타트업, 기업가 정신과 관련된 토론주제를 미리 선정하여 공개하여 토론 준비를 하도록 할 예정
+
+### 조편성
+
+- [조편성표](https://docs.google.com/spreadsheets/d/1UusscZmjYYP9-xKU0oXf7nkNXENmNhG7aiKZ5pFJsnQ/edit?usp=drive_link) 
 
 ### 토론 주제 예시
 
@@ -202,12 +207,6 @@ TBD
 
 수업에 참여하는데 있어 특별한 고려사항이나 어려움이 있는 학생 별도로 담당교수에게 연락을 하거나 장애학생지원센터(031-750-5058)로 문의하기를 바랍니다.
 
----
-
-## 강의 슬라이드
-
-- [0.오리엔테이션](https://docs.google.com/presentation/d/1VJgHEm_CFy68zcq7s17WQBVy92JjuBiz4TlGobiZnCI/edit?slide=id.g33cdb80f340_0_0#slide=id.g33cdb80f340_0_0)
-- [1.대학의 기업가적 전환과 GCS(장대익 학장(석좌교수), 가천대학교 스타트업 칼리지)](https://drive.google.com/file/d/1cGX2PHNFQMRa4huxrrQjxwOHe6693TVP/view?usp=drive_link)
 
 ---
 
