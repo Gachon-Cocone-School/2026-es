@@ -125,7 +125,8 @@ Gachon Cocone School
 
 ### 조편성
 
-- [조편성표](https://docs.google.com/spreadsheets/d/1UusscZmjYYP9-xKU0oXf7nkNXENmNhG7aiKZ5pFJsnQ/edit?usp=drive_link) 
+- [조편성표 시트 열기](https://docs.google.com/spreadsheets/d/1UusscZmjYYP9-xKU0oXf7nkNXENmNhG7aiKZ5pFJsnQ/edit?usp=drive_link)
+<img width="920" height="526" alt="Image" src="https://github.com/user-attachments/assets/32b5f4e4-6295-4b3d-a94e-1c07989c3810" />
 
 ### 토론 주제 예시
 
