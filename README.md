@@ -123,10 +123,16 @@ Gachon Cocone School
 - 패자부활전(더블 엘리미네이션 방식)도 진행.  패자부활전 1R → 2R → 패자결승전(공동 3위 결정전) 순으로 진행
 - 스타트업, 기업가 정신과 관련된 토론주제를 미리 선정하여 공개하여 토론 준비를 하도록 할 예정
 
-### 조편성
+### 조편성 및 대진표
 
 - [조편성표 시트 열기](https://docs.google.com/spreadsheets/d/1UusscZmjYYP9-xKU0oXf7nkNXENmNhG7aiKZ5pFJsnQ/edit?usp=drive_link)
 <img width="920" height="526" alt="Image" src="https://github.com/user-attachments/assets/32b5f4e4-6295-4b3d-a94e-1c07989c3810" />
+
+- 승자조 대진표
+<img width="907" height="903" alt="Image" src="https://github.com/user-attachments/assets/467ea2a6-c1a2-47b5-8968-35751ed3371d" />
+
+- 패자조 대진표
+<img width="911" height="504" alt="Image" src="https://github.com/user-attachments/assets/0d5e5cdc-04d9-4b82-bcca-20da92a4b01f" />
 
 ### 토론 주제 예시
 
