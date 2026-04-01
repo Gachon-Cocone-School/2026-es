@@ -168,7 +168,7 @@ Gachon Cocone School
 ### 조편성 및 대진표
 
 - [조편성표 시트 열기](https://docs.google.com/spreadsheets/d/1UusscZmjYYP9-xKU0oXf7nkNXENmNhG7aiKZ5pFJsnQ/edit?usp=drive_link)
-<img width="920" height="526" alt="Image" src="https://github.com/user-attachments/assets/32b5f4e4-6295-4b3d-a94e-1c07989c3810" />
+<img width="1005" height="523" alt="Image" src="https://github.com/user-attachments/assets/6adc540a-5019-44e6-a6ee-81f7fe6badb9" />
 
 - 승자조 대진표
 <img width="907" height="903" alt="Image" src="https://github.com/user-attachments/assets/467ea2a6-c1a2-47b5-8968-35751ed3371d" />
