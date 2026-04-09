@@ -63,7 +63,7 @@ Gachon Cocone School
 ### Team teaching
 
 - 5주차(2026.4.2) - 팀 티칭 #1 - 인간본성과 기업가 정신(이민섭 교수, 가천대학교 스타트업 칼리지) - [강의슬라이드](https://docs.google.com/presentation/d/1vc828hhTzpyeQEumRUWsoRVNKvh7oKjsnEjXejYe9qU/edit?pli=1&slide=id.p#slide=id.p)
-- 6주차(2026.4.9) - 팀 티칭 #2 - 기업의 인사와 조직관리 (황성현 교수, 가천대학교 스타트업 칼리지)
+- 6주차(2026.4.9) - 팀 티칭 #2 - 기업의 인사와 조직관리 (황성현 교수, 가천대학교 스타트업 칼리지) - [강의슬라이드](https://drive.google.com/file/d/1laCAy9CRCwHxBAzdpZiSqdLXQsJrj7Pc/view?usp=drive_link)
 - 7주차(2026.4.16) - 팀 티칭 #3 - 디지털 경제 기업의 중요성(최재홍 교수, 가천대학교 스타트업 칼리지)
 - 8주차(2026.4.23) - 팀 티칭 #4 - 인공지능과 스타트업(김남주 교수, 가천대학교 스타트업 칼리지)
 
