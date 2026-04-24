@@ -70,7 +70,7 @@ Gachon Cocone School
 ### 특강 및 토론 수업
 
 - 9주차(2026.4.30) - 토론 대회(16강전)
-- 10주차(2026.5.7) - 학생 창업자 특강 - **온라인 강의**
+- 10주차(2026.5.7) - 학생 창업자 특강 - **온라인 강의** - [강의슬라이드](https://docs.google.com/presentation/d/1QquVjpCn9XMbUPz8lmyMvLFfkVv308jUk43cv1qWzPA/edit?slide=id.g3d90e4fb8d0_1_0#slide=id.g3d90e4fb8d0_1_0)
 - 11주차(2026.5.14) - 토론 대회(패자부활전 1R, 8강전)
 - 12주차(2026.5.21) - How to start a startup by Sam Altman - **온라인 강의**
 - 13주차(2026.5.28) - 토론 대회(패자부활전 2/3R, 4강전)
@@ -114,7 +114,7 @@ Gachon Cocone School
 
 ### 과제 #2(2026.5.7)
 
-- [과제 안내 슬라이드](https://docs.google.com/presentation/d/1Jn-VRashpl2z5f5CzZtf7iSpRwbKS-JjLcZctEHIu3Q/edit?slide=id.g33cdb80f340_0_104#slide=id.g33cdb80f340_0_104)
+- [과제 안내 슬라이드](https://docs.google.com/presentation/d/1QquVjpCn9XMbUPz8lmyMvLFfkVv308jUk43cv1qWzPA/edit?slide=id.g3d90e4fb8d0_1_0#slide=id.g3d90e4fb8d0_1_0)
 
 ---
 
