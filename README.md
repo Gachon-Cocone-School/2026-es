@@ -112,6 +112,10 @@ Gachon Cocone School
 - 비가천 메일 감점: 6명
 - 첨부파일 제출 감점: 6명
 
+### 과제 #2(2026.5.7)
+
+- [과제 안내 슬라이드](https://docs.google.com/presentation/d/1Jn-VRashpl2z5f5CzZtf7iSpRwbKS-JjLcZctEHIu3Q/edit?slide=id.g33cdb80f340_0_104#slide=id.g33cdb80f340_0_104)
+
 ---
 
 ## 성적 산출
