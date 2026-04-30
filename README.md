@@ -175,10 +175,10 @@ Gachon Cocone School
 <img width="1003" height="519" alt="Image" src="https://github.com/user-attachments/assets/465e1965-eae6-4dfa-aa8c-b1ac4c37c0fe" />
 
 - 승자조 대진표
-<img width="907" height="903" alt="Image" src="https://github.com/user-attachments/assets/467ea2a6-c1a2-47b5-8968-35751ed3371d" />
+<img width="895" height="818" alt="Image" src="https://github.com/user-attachments/assets/8eb08427-005b-40ab-bf39-c8df34c3d61e" />
 
 - 패자조 대진표
-<img width="911" height="504" alt="Image" src="https://github.com/user-attachments/assets/0d5e5cdc-04d9-4b82-bcca-20da92a4b01f" />
+<img width="920" height="454" alt="Image" src="https://github.com/user-attachments/assets/d809a53f-a39d-4335-9566-4582db5e64b9" />
 
 
 ### 토론 주의 사항
