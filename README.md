@@ -253,6 +253,8 @@ Gachon Cocone School
 - 패자조 대진표
 <img width="893" height="427" alt="Image" src="https://github.com/user-attachments/assets/c4706df0-4716-4bc3-804a-427967e9a20b" />
 
+- 최종 순위표
+<img width="816" height="705" alt="Image" src="https://github.com/user-attachments/assets/d1e8bc8a-ac7d-43fa-983a-db4442e282e8" />
 
 ### 토론 주의 사항
 
